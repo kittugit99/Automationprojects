@@ -13,7 +13,6 @@ import io.cucumber.junit.CucumberOptions;
     monochrome = true,
     dryRun = true
     )
-##this is test one 
 public class Testrunner1 {
 
 }
