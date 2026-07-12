@@ -12,6 +12,7 @@ public class test6 {
 		else if(value[i] < minimumvalue) {
 			minimumvalue = value[i];
 		}
+		
 	}
 	System.out.println("maximum value is :" +maximumvalue);
 	System.out.println("minimum value is :" +minimumvalue);

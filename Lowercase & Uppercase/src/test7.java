@@ -23,5 +23,6 @@ public class test7 {
 		System.out.println("alphabatic value is :" +alphabatic);
 		System.out.println("specialchar value is :" +specialchar);
 	}
+	
 
 }

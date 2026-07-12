@@ -8,16 +8,16 @@ int upper = 0;
 for(int i=0; i< name.length(); i++) {
 	char ch = name.charAt(i);
 	if(ch>=65 && ch<=90) {
-				
+				upper++;
 	}
 	else if(ch>=97 && ch<=122) {
 		lower++;
 	}
-	System.out.println("lower case letters" +lower);
-	System.out.println("upper case letters" +upper);
+
 	
 }
-
+System.out.println("lower case letters is : " +lower);
+System.out.println("upper case letters is : " +upper);
 	}
 
 }

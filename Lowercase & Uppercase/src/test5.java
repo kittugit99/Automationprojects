@@ -18,8 +18,8 @@ public class test5 {
 		
 			
 		}
-		System.out.println("lower case chat :" +lowsercase);
-		System.out.println("upper  case chat :" +uppercase);
+		System.out.println("lower case is :" +lowsercase);
+		System.out.println("upper  case is :" +uppercase);
 
 	}
 

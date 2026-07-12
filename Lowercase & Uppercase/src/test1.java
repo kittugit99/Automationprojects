@@ -14,7 +14,7 @@ public class test1 {
 				if (ch >= 65 && ch <= 90) {  
 					upper++;
 				} else if (ch >= 97 && ch <= 122) {
-					lower++;
+					lower++;	
 				}
 				
 			}
